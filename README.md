@@ -18,16 +18,11 @@ I enjoy building clean, modern, and user-friendly mobile applications with Flutt
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Abdiaziiz09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.tiktok.com/@yourusername">
+  <a href="https://www.tiktok.com/@thesafwaan">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 
-  <a href="mailto:your@email.com">
+  <a href="mailto:ccasiiscraxmanxasan@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
