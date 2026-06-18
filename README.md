@@ -1,4 +1,4 @@
-# Hi, I'm Abdiaziz Abdirahman Bakaal 👋
+# Hi, I'm Abdiaziz Bakaal 👋
 
 Flutter UI Developer 📱
 
