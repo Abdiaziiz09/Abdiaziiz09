@@ -13,7 +13,7 @@ I enjoy building clean, modern, and user-friendly mobile applications with Flutt
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
 </p>
 
 ## 📫 Connect With Me
