@@ -11,7 +11,7 @@ I build clean, modern, and user-friendly mobile applications using Flutter.
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ### 📫 Connect With Me
