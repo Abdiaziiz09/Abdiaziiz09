@@ -1,32 +1,27 @@
-<!--
 
-# Hi, I'm Abdiaziz Bakaal 👋
+# Hi, I'm Engineer Abdiaziz Abdirahman Hassan 👋
 
-Flutter UI Developer 📱
+### 📱 Mobile App Developer | Flutter & Dart
 
-I enjoy building clean, modern, and user-friendly mobile applications with Flutter.
+I build clean, modern, and user-friendly mobile applications using Flutter.
 
-## 🚀 About Me
-- 📱 Flutter UI Developer
-- 🎨 Passionate about clean UI/UX
-- 🌱 Currently learning and improving every day
-- 🤝 Open to collaboration
+### 🚀 About Me
+- 📱 Mobile App Developer using Flutter
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" alt="Tech Stack" />
 </p>
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-  <a href="mailto:ccasiiscraxmanxasan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>*/
-
-  <a href="https://www.tiktok.com/@thesafwaan">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<p align="left">
+  <a href="https://wa.me/252610370605">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
--->
+---
+
+⭐ *Turning ideas into mobile applications with Flutter.*
