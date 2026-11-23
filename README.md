@@ -1,12 +1,13 @@
+# Hi, I'm Engineer Abdiaziz Bakaal 👋
 
-# Hi, I'm Engineer Abdiaziz Abdirahman Hassan 👋
+> "Whatever I come to love or take an interest in, I must understand how it works."
 
-### 📱 Mobile App Developer | Flutter & Dart
+I'm a **Mobile App Developer** passionate about technology, continuous learning, and understanding how things work. I enjoy exploring new ideas and turning them into practical, user-friendly mobile applications.
 
-I build clean, modern, and user-friendly mobile applications using Flutter.
-
-### 🚀 About Me
-- 📱 Mobile App Developer using Flutter
+### 💻 What I Do
+- Develop mobile applications using **Flutter & Dart**.
+- Explore technology and learn how things work.
+- Build clean, modern, and user-friendly applications.
 
 ### 🛠️ Tech Stack
 
@@ -24,4 +25,4 @@ I build clean, modern, and user-friendly mobile applications using Flutter.
 
 ---
 
-⭐ *Turning ideas into mobile applications with Flutter.*
+⭐ *Curiosity drives me. Understanding inspires me. Building is how I express it.*
